@@ -1,4 +1,4 @@
-# 👨🏼‍💻 João Vitor Santos
+# 👨🏼‍💻 João Vitor S. Pereira
 
 Me chamo João Vitor dos Santos Pereira, tenho 20 anos e sou natural de Tabira - Pernambuco. Estudei no IFPE do 1º ao 2º ano do ensino médio, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na UFRPE - Unidade Acadêmica de Serra Talhada. Sou apaixonado por tecnologia e estou sempre aperfeiçoando meus conhecimentos em programação.
 
