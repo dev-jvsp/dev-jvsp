@@ -1,6 +1,6 @@
 # 👨🏼‍💻 João Vitor S. Pereira
 
-Me chamo João Vitor dos Santos Pereira, tenho 20 anos e estou cursando Sistemas de Informação na UFRPE - Unidade Acadêmica de Serra Talhada. Sou apaixonado por tecnologia e estou sempre aperfeiçoando meus conhecimentos em programação.
+Me chamo João Vitor dos Santos Pereira, tenho 21 anos e estou cursando Sistemas de Informação na UFRPE - Unidade Acadêmica de Serra Talhada. Sou apaixonado por tecnologia e estou sempre aperfeiçoando meus conhecimentos em programação.
 
 ---
 
