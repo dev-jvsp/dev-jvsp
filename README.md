@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=8B0000&center=true&vCenter=true&width=435&lines=</>+dev-jvsp;</>+Software+Developer;</>+Systems+Information+Student"/>
 
 </div>
----
 
 ```java
 public class Main {
