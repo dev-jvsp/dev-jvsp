@@ -8,7 +8,6 @@
 
 ```java
 public class Main {
-
     public static void main(String[] args) {
         while(alive){
             code();
@@ -16,7 +15,6 @@ public class Main {
             repeat();
         }
     }
-
 }
 ```
 
