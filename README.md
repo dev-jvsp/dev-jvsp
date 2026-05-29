@@ -12,7 +12,7 @@
 
 ## 私 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
-<img align="right" alt="coding" width="250" src="https://giffiles.alphacoders.com/148/148519.gif">
+<img align="right" alt="coding" width="240" src="https://giffiles.alphacoders.com/148/148519.gif">
 
 <div align="left">
 <pre>
