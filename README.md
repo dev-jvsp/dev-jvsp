@@ -6,6 +6,35 @@
 
 </div>
 
+<div align="center">
+
+<br>
+
+## 私 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
+
+<img align="right" alt="coding" width="250" src="https://giffiles.alphacoders.com/148/148519.gif">
+
+<div align="left">
+<pre>
+Hello there! I'm João Vitor, a Systems Information student from Brazil. 
+I'm passionate about backend development, software engineering, and writing clean, 
+maintainable code. 
+Currently studying Java, data structures and object-oriented programming.
+
+<div align="center">
+
+🎓 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 𝙎𝙩𝙪𝙙𝙚𝙣𝙩
+☕ 𝙅𝙖𝙫𝙖 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
+📚 𝘿𝙖𝙩𝙖 𝙎𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙚𝙨 & 𝙊𝙊𝙋
+🚀 𝘾𝙤𝙣𝙩𝙞𝙣𝙪𝙤𝙪𝙨 𝙇𝙚𝙖𝙧𝙣𝙚𝙧
+</pre>
+
+</div>
+
+</div>
+
+---
+
 ```java
 public class Main {
     public static void main(String[] args) {
