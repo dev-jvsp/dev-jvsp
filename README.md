@@ -33,20 +33,6 @@ Currently studying Java, data structures and object-oriented programming.
 
 </div>
 
----
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        while(alive){
-            code();
-            learn();
-            repeat();
-        }
-    }
-}
-```
-
 <div align="center">
 
 <br>
