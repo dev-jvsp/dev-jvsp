@@ -59,19 +59,6 @@ Currently studying Java, data structures and object-oriented programming.
 
 <div align="center">
 
-## 統 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
-
-</div>
-
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-jvsp&bg_color=0d1117&color=ae0f0f&line=8d0c0c&point=ffffff&hide_border=true"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-jvsp&theme=shadow-red&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 <div align="center">
